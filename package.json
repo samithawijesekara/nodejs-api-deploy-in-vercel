@@ -1,0 +1,23 @@
+{
+    "name": "nodejs-api-deploy-in-vercel",
+    "version": "1.0.0",
+    "description": "nodejs-api-deploy-in-vercel",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/samithawijesekara/nodejs-api-deploy-in-vercel.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/samithawijesekara/nodejs-api-deploy-in-vercel/issues"
+    },
+    "homepage": "https://github.com/samithawijesekara/nodejs-api-deploy-in-vercel#readme",
+    "dependencies": {
+        "express": "^4.18.2",
+        "nodemon": "^2.0.20"
+    }
+}
